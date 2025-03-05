@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ignacio!
 
-<!--
-**ignaciogarcia-dev/ignaciogarcia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Technologies & Tools:**
 
-Here are some ideas to get you started:
+| 🌐 Next.js | ⚛️ React.js | 🔷 TypeScript | 🌟 Laravel | 🗄️ MongoDB | 🐘 PostgreSQL | 🎨 TailwindCSS |
+|------------|-------------|--------------|------------|------------|---------------|---------------|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📋 **Other Tools I Use:**
+
+| 🔄 Git | 🐳 Docker | 🚀 Vercel | 📒 Notion |
+|--------|-----------|-----------|-----------|
+
+---
+
+🌐 **Let's connect!**  
+📫 **Website:** [ignaciogarcia.uy](https://ignaciogarcia.uy)
