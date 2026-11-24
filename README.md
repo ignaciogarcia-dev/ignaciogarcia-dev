@@ -1,4 +1,4 @@
-# Hi, I'm Ignacio
+<p align="center"><img src="https://raw.githubusercontent.com/ignaciogarcia-dev/ignaciogarcia-dev/output/banner.svg" alt="Ignacio García" width="100%"></p>
 
 Software engineer from Uruguay. I build AI agents and LLM features, and the payment systems they run on, from the spec to production.
 
@@ -9,12 +9,12 @@ Software engineer from Uruguay. I build AI agents and LLM features, and the paym
 
 ## Open source
 
-- [**ReconBanker**](https://github.com/ignaciogarcia-dev/reconbanker): matches bank transfers to orders automatically. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/reconbanker?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/reconbanker/stargazers)
-- [**Walty**](https://github.com/ignaciogarcia-dev/walty): self-custodial crypto point of sale on Polygon. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/walty?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/walty/stargazers)
-- [**two-towers**](https://github.com/ignaciogarcia-dev/two-towers): PyTorch recommender that matches users to crypto tokens. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/two-towers?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/two-towers/stargazers)
+<a href="https://github.com/ignaciogarcia-dev/walty"><img src="https://raw.githubusercontent.com/ignaciogarcia-dev/ignaciogarcia-dev/output/walty.svg" alt="walty" width="400"></a>
+<a href="https://github.com/ignaciogarcia-dev/reconbanker"><img src="https://raw.githubusercontent.com/ignaciogarcia-dev/ignaciogarcia-dev/output/reconbanker.svg" alt="reconbanker" width="400"></a>
+<a href="https://github.com/ignaciogarcia-dev/two-towers"><img src="https://raw.githubusercontent.com/ignaciogarcia-dev/ignaciogarcia-dev/output/two-towers.svg" alt="two-towers" width="400"></a>
 
 ## Stack
 
-TypeScript · React · React Native / Expo · Node.js · LLMs & MCP · PostgreSQL · Docker · Laravel
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square) ![React](https://img.shields.io/badge/React-20232a?style=flat-square) ![React Native / Expo](https://img.shields.io/badge/React%20Native%20%2F%20Expo-000020?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![LLMs & MCP](https://img.shields.io/badge/LLMs%20%26%20MCP-6b4fbb?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square)
 
 [ignaciogarcia.dev](https://ignaciogarcia.dev)
