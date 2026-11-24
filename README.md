@@ -9,9 +9,9 @@ Software engineer from Uruguay. I build AI agents and LLM features, and the paym
 
 ## Open source
 
-- [**ReconBanker**](https://github.com/ignaciogarcia-dev/reconbanker) [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/reconbanker?style=flat&logo=github&label=stars)](https://github.com/ignaciogarcia-dev/reconbanker/stargazers): matches bank transfers to orders automatically.
-- [**Walty**](https://github.com/ignaciogarcia-dev/walty) [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/walty?style=flat&logo=github&label=stars)](https://github.com/ignaciogarcia-dev/walty/stargazers): self-custodial crypto point of sale on Polygon.
-- [**two-towers**](https://github.com/ignaciogarcia-dev/two-towers) [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/two-towers?style=flat&logo=github&label=stars)](https://github.com/ignaciogarcia-dev/two-towers/stargazers): PyTorch recommender that matches users to crypto tokens.
+- [**ReconBanker**](https://github.com/ignaciogarcia-dev/reconbanker): matches bank transfers to orders automatically. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/reconbanker?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/reconbanker/stargazers)
+- [**Walty**](https://github.com/ignaciogarcia-dev/walty): self-custodial crypto point of sale on Polygon. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/walty?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/walty/stargazers)
+- [**two-towers**](https://github.com/ignaciogarcia-dev/two-towers): PyTorch recommender that matches users to crypto tokens. [![Stars](https://img.shields.io/github/stars/ignaciogarcia-dev/two-towers?style=flat&logo=github&label=Stars)](https://github.com/ignaciogarcia-dev/two-towers/stargazers)
 
 ## Stack
 
